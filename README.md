@@ -1,2 +1,2 @@
-# nodejs-exress-1
+# nodejs-express-1
 class_workshop1
